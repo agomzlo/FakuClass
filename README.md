@@ -1,1 +1,2 @@
 # FakuClass
+# Welcome my friend
